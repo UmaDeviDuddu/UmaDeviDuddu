@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Uma is a Principal PM who loves "Getting things Done" 
+
+At the forefront of AI and cloud infrastructure. 20+ years transforming technical complexity into products that scale. I own and drive programs/ products with AI systems and cloud platforms where architecture decisions have business impact. My expertise spans the full stack—from ML infrastructure and data architecture to cross-functional execution across global teams. I've built my career solving the hardest technical-organizational problems: aligning distributed teams, shipping products that handle scale, and turning emerging technologies into production reality.
+
+What sets me apart is the ability to operate at multiple altitudes simultaneously setting strategic direction while staying close enough to the architecture to make smart, grounded decisions. I bring rigor to ambiguity, clarity to complexity, and a bias toward shipping.
+
+Core strengths: AI/ML strategy • Execution Excellence • Enterprise cloud architecture • Security • Technical leadership • Data platform development • Strategic roadmap execution
+
+🔭 I’m currently building hands-on with Python, LLM apps, evals and agents.
